@@ -50,10 +50,12 @@ Flutter version: 3.0.5
 
 Instalacion para Android
 ```bash
+  flutter build apk
   flutter install apk
 ```
 
 Instalacion para iOS
 ```bash
+  flutter build ios
   flutter install ios
 ```
