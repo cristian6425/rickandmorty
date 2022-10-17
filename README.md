@@ -4,7 +4,7 @@
 Aplicación para ver información de la serie Rick and Morty
 
 
-## Teco
+## Tecnolog[ia
 
 **Client:** Flutter v3.0.5
 
